@@ -1,0 +1,7 @@
+cluster: qsub -W group_list=cge -A cge -l nodes=1:ppn={cluster.core},mem={cluster.vmem},walltime={cluster.time}
+cluster-config: profile/cluster_computerome.json
+use-envmodules: True
+restart-times: 2
+jobs: 100
+keep-going: True
+rerun-incomplete: True

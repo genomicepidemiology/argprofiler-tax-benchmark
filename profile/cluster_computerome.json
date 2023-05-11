@@ -1,0 +1,66 @@
+{
+    "__default__" :
+    {
+        "core" : "20",
+        "time" : "06:00:00",
+        "vmem" : "20G",
+        "proj" : "cge"
+    },
+    "trim" :
+    {
+        "core" : "40",
+        "time" : "14:00:00",
+        "vmem" : "188G",
+        "proj" : "cge"
+    },
+    "kma_mOTUs" :
+    {
+        "core" : "20",
+        "time" : "06:00:00",
+        "vmem" : "60G",
+        "proj" : "cge"
+    },
+    "kma_silva" :
+    {
+        "core" : "40",
+        "time" : "10:00:00",
+        "vmem" : "250G",
+        "proj" : "cge"
+    },
+    "kma_genomic" :
+    {
+        "core" : "40",
+        "time" : "10:00:00",
+        "vmem" : "250G",
+        "proj" : "cge"
+    },
+    "kma_metaphlan" :
+    {
+        "core" : "40",
+        "time" : "10:00:00",
+        "vmem" : "250G",
+        "proj" : "cge"
+    },
+    "kma_gtdb" :
+    {
+        "core" : "40",
+        "time" : "10:00:00",
+        "vmem" : "250G",
+        "proj" : "cge"
+    },
+    "kraken" :
+    {
+        "core" : "40",
+        "time" : "14:00:00",
+        "vmem" : "188G",
+        "proj" : "cge"
+    },
+    "kma2cami" :
+    {
+        "core" : "6",
+        "time" : "2:00:00:00",
+        "vmem" : "30G",
+        "proj" : "cge"
+    },
+}
+
